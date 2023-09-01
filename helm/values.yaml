@@ -1,0 +1,9 @@
+buttonclicker:
+  image:
+    repository: zwindler/buttonclicker
+    tag: latest
+postgresql:
+  dbname: buttonclicker
+  user: buttonclicker
+  host: postgresql
+  password: buttonclicker

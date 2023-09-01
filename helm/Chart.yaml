@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-buttonclicker-chart
+description: A Helm chart for deploying the buttonclicker application
+version: 0.1.0
