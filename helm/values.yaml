@@ -7,3 +7,5 @@ postgresql:
   user: buttonclicker
   host: postgresql
   password: buttonclicker
+ingress:
+  host: buttonclicker.zwindler.fr
